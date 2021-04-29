@@ -1,0 +1,11 @@
+This is a sample text document.
+
+Here is a list of Colors:
+Red
+Bule
+Pink
+Yellow
+Black
+White
+Grey
+Green
